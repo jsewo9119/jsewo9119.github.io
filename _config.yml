@@ -5,7 +5,7 @@ url: https://vszhub.github.io
 avatar: /img/Bam.png
 paginate: 5
 permalink: pretty
-cover_image: /img/bg.jpeg
+cover_image: /img/background.jpeg
 
 # Gems
 plugins:
@@ -56,4 +56,4 @@ sass:
 author:
   name: Songzi Vong
   url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  email: jsewo9119@gmail.com
