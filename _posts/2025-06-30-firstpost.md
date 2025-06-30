@@ -23,9 +23,11 @@ toc:  true
 ## 코드넣기 연습
 파이썬 기본적인 코드를 넣어볼게요
 
-python<br>
+~~~python
 #hello 10번 출력
 for i in range(10):
     print("hello")
-</br>
+    print("안녕 친구들")
+~~~
+코드블록 끝
 
